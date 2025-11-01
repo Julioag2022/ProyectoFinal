@@ -1,5 +1,0 @@
-Server Type: Database Engine
-Server name: sqldatbaasedemo.database.windows.net
-Authentication: SQL Server Authentication
-Login: Emmanuel
-Password: Mbappe2025
