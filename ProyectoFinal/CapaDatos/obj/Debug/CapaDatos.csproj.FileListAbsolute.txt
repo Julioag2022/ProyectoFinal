@@ -1,0 +1,54 @@
+C:\Users\601472\source\repos\TelcoIngeUmgC\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\601472\source\repos\TelcoIngeUmgC\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\601472\source\repos\TelcoIngeUmgC\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\601472\source\repos\TelcoIngeUmgC\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\601472\source\repos\TelcoIngeUmgC\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\601472\source\repos\TelcoIngeUmgC\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Elvis Morales\source\repos\20250802 TelcoIngeUmgC\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Elvis Morales\source\repos\20250802 TelcoIngeUmgC\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Elvis Morales\source\repos\20250802 TelcoIngeUmgC\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Elvis Morales\source\repos\20250802 TelcoIngeUmgC\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Elvis Morales\source\repos\20250802 TelcoIngeUmgC\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Elvis Morales\source\repos\20250802 TelcoIngeUmgC\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Elvis Morales\Desktop\20250802 TelcoIngeUmgC\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Elvis Morales\Desktop\20250802 TelcoIngeUmgC\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Elvis Morales\Desktop\20250802 TelcoIngeUmgC\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Elvis Morales\Desktop\20250802 TelcoIngeUmgC\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Elvis Morales\Desktop\20250802 TelcoIngeUmgC\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Elvis Morales\Desktop\20250802 TelcoIngeUmgC\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\601472\OneDrive - SERVICIOS FINANCIEROS COMPARTIDOS SA\Escritorio\20250830 TelcoIngeUmgC\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\601472\OneDrive - SERVICIOS FINANCIEROS COMPARTIDOS SA\Escritorio\20250830 TelcoIngeUmgC\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\601472\OneDrive - SERVICIOS FINANCIEROS COMPARTIDOS SA\Escritorio\20250830 TelcoIngeUmgC\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\601472\OneDrive - SERVICIOS FINANCIEROS COMPARTIDOS SA\Escritorio\20250830 TelcoIngeUmgC\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\601472\OneDrive - SERVICIOS FINANCIEROS COMPARTIDOS SA\Escritorio\20250830 TelcoIngeUmgC\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\601472\OneDrive - SERVICIOS FINANCIEROS COMPARTIDOS SA\Escritorio\20250830 TelcoIngeUmgC\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Elvis Morales\Desktop\20250906 TelcoIngeUmgC\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Elvis Morales\Desktop\20250906 TelcoIngeUmgC\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Elvis Morales\Desktop\20250906 TelcoIngeUmgC\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Elvis Morales\Desktop\20250906 TelcoIngeUmgC\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Elvis Morales\Desktop\20250906 TelcoIngeUmgC\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Elvis Morales\Desktop\20250906 TelcoIngeUmgC\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\601472\OneDrive - SERVICIOS FINANCIEROS COMPARTIDOS SA\Escritorio\TelcoIngeUmg EjemploFK\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\601472\OneDrive - SERVICIOS FINANCIEROS COMPARTIDOS SA\Escritorio\TelcoIngeUmg EjemploFK\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\601472\OneDrive - SERVICIOS FINANCIEROS COMPARTIDOS SA\Escritorio\TelcoIngeUmg EjemploFK\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\601472\OneDrive - SERVICIOS FINANCIEROS COMPARTIDOS SA\Escritorio\TelcoIngeUmg EjemploFK\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\601472\OneDrive - SERVICIOS FINANCIEROS COMPARTIDOS SA\Escritorio\TelcoIngeUmg EjemploFK\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\601472\OneDrive - SERVICIOS FINANCIEROS COMPARTIDOS SA\Escritorio\TelcoIngeUmg EjemploFK\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Luis\Desktop\Proyecto Final  Progra\TelcoIngeUmg EjemploFK\TelcoIngeUmg EjemploFK\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Luis\Desktop\Proyecto Final  Progra\TelcoIngeUmg EjemploFK\TelcoIngeUmg EjemploFK\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Luis\Desktop\Proyecto Final  Progra\TelcoIngeUmg EjemploFK\TelcoIngeUmg EjemploFK\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Proyecto Final  Progra\TelcoIngeUmg EjemploFK\TelcoIngeUmg EjemploFK\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Proyecto Final  Progra\TelcoIngeUmg EjemploFK\TelcoIngeUmg EjemploFK\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Luis\Desktop\Proyecto Final  Progra\TelcoIngeUmg EjemploFK\TelcoIngeUmg EjemploFK\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Luis\Desktop\Proyecto Final  Progra\ProyectoFinal\TelcoIngeUmg EjemploFK\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Luis\Desktop\Proyecto Final  Progra\ProyectoFinal\TelcoIngeUmg EjemploFK\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Luis\Desktop\Proyecto Final  Progra\ProyectoFinal\TelcoIngeUmg EjemploFK\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Proyecto Final  Progra\ProyectoFinal\TelcoIngeUmg EjemploFK\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Proyecto Final  Progra\ProyectoFinal\TelcoIngeUmg EjemploFK\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Luis\Desktop\Proyecto Final  Progra\ProyectoFinal\TelcoIngeUmg EjemploFK\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Luis\Desktop\Proyecto Final  Progra\ProyectoFinal\ProyectoFinal\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Luis\Desktop\Proyecto Final  Progra\ProyectoFinal\ProyectoFinal\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Luis\Desktop\Proyecto Final  Progra\ProyectoFinal\ProyectoFinal\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Proyecto Final  Progra\ProyectoFinal\ProyectoFinal\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Proyecto Final  Progra\ProyectoFinal\ProyectoFinal\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Luis\Desktop\Proyecto Final  Progra\ProyectoFinal\ProyectoFinal\CapaDatos\obj\Debug\CapaDatos.pdb

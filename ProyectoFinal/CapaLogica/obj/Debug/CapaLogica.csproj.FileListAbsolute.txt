@@ -1,0 +1,36 @@
+C:\Users\Elvis Morales\source\repos\20250802 TelcoIngeUmgC\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Elvis Morales\source\repos\20250802 TelcoIngeUmgC\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Elvis Morales\source\repos\20250802 TelcoIngeUmgC\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Elvis Morales\source\repos\20250802 TelcoIngeUmgC\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Elvis Morales\source\repos\20250802 TelcoIngeUmgC\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Elvis Morales\source\repos\20250802 TelcoIngeUmgC\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Elvis Morales\Desktop\20250802 TelcoIngeUmgC\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Elvis Morales\Desktop\20250802 TelcoIngeUmgC\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Elvis Morales\Desktop\20250802 TelcoIngeUmgC\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Elvis Morales\Desktop\20250802 TelcoIngeUmgC\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Elvis Morales\Desktop\20250802 TelcoIngeUmgC\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Elvis Morales\Desktop\20250802 TelcoIngeUmgC\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Elvis Morales\Desktop\20250906 TelcoIngeUmgC\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Elvis Morales\Desktop\20250906 TelcoIngeUmgC\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Elvis Morales\Desktop\20250906 TelcoIngeUmgC\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Elvis Morales\Desktop\20250906 TelcoIngeUmgC\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Elvis Morales\Desktop\20250906 TelcoIngeUmgC\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Elvis Morales\Desktop\20250906 TelcoIngeUmgC\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\601472\OneDrive - SERVICIOS FINANCIEROS COMPARTIDOS SA\Escritorio\TelcoIngeUmg EjemploFK\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\601472\OneDrive - SERVICIOS FINANCIEROS COMPARTIDOS SA\Escritorio\TelcoIngeUmg EjemploFK\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\601472\OneDrive - SERVICIOS FINANCIEROS COMPARTIDOS SA\Escritorio\TelcoIngeUmg EjemploFK\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\601472\OneDrive - SERVICIOS FINANCIEROS COMPARTIDOS SA\Escritorio\TelcoIngeUmg EjemploFK\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\601472\OneDrive - SERVICIOS FINANCIEROS COMPARTIDOS SA\Escritorio\TelcoIngeUmg EjemploFK\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\601472\OneDrive - SERVICIOS FINANCIEROS COMPARTIDOS SA\Escritorio\TelcoIngeUmg EjemploFK\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Luis\Desktop\Proyecto Final  Progra\TelcoIngeUmg EjemploFK\TelcoIngeUmg EjemploFK\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Luis\Desktop\Proyecto Final  Progra\TelcoIngeUmg EjemploFK\TelcoIngeUmg EjemploFK\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Luis\Desktop\Proyecto Final  Progra\TelcoIngeUmg EjemploFK\TelcoIngeUmg EjemploFK\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Proyecto Final  Progra\TelcoIngeUmg EjemploFK\TelcoIngeUmg EjemploFK\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Proyecto Final  Progra\TelcoIngeUmg EjemploFK\TelcoIngeUmg EjemploFK\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Luis\Desktop\Proyecto Final  Progra\TelcoIngeUmg EjemploFK\TelcoIngeUmg EjemploFK\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Luis\Desktop\Proyecto Final  Progra\ProyectoFinal\ProyectoFinal\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Luis\Desktop\Proyecto Final  Progra\ProyectoFinal\ProyectoFinal\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Luis\Desktop\Proyecto Final  Progra\ProyectoFinal\ProyectoFinal\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Proyecto Final  Progra\ProyectoFinal\ProyectoFinal\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Proyecto Final  Progra\ProyectoFinal\ProyectoFinal\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Luis\Desktop\Proyecto Final  Progra\ProyectoFinal\ProyectoFinal\CapaLogica\obj\Debug\CapaLogica.pdb
